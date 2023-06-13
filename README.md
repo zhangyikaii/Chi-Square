@@ -1,5 +1,5 @@
 # Learning Debiased Representations via Conditional Attribute Interpolation
 
----
+Release before June 30th.
 
-Release before July 30th, thanks.
+Please stay tuned for updates, thanks.
